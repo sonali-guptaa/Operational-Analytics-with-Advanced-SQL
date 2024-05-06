@@ -1,7 +1,6 @@
 # Project Description:
 This project focuses on Operational Analytics, aimed at analyzing end-to-end operations within a company. As a Lead Data Analyst, you will work with various teams, leveraging advanced SQL skills to derive insights from operational data. The project involves investigating metric spikes and providing valuable insights to improve company operations.
 
-# Description
 This project focuses on two key aspects of Operational Analytics:
 - Data Exploration and Analysis: We'll analyze various datasets using advanced SQL queries to extract meaningful information.
 - Investigating Metric Spikes: We'll develop queries to identify and understand sudden changes in key metrics, helping departments react proactively.
