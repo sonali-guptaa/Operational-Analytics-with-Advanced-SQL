@@ -1,4 +1,4 @@
-# Operational-Analytics-with-Advanced-SQL:
+# Operational Analytics and Metric Spike Investigation:
 This project focuses on Operational Analytics, aimed at analyzing end-to-end operations within a company. As a Lead Data Analyst, you will work with various teams, leveraging advanced SQL skills to derive insights from operational data. The project involves investigating metric spikes and providing valuable insights to improve company operations.
 
 This project focuses on two key aspects of Operational Analytics:
